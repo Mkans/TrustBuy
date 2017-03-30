@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TRUSTBUY_SS</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="ad_title">Title</string>
+    <string name="ad_title_desc">A good Title is the selling secret!</string>
+    <string name="product_image">Product Image</string>
+    <string name="product_image_browse_button">Browse..</string>
+    <string name="ad_description">Description</string>
+    <string name="ad_publish_button">Publish</string>
+    <string name="ad_cancel_button">Cancel</string>
+
+</resources>
